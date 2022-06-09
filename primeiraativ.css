@@ -1,0 +1,13 @@
+body{
+	background-image: url(papel3.jpg);
+	
+}
+h1{font-family: Bradley Hand ITC;
+	font-size: 100px;
+	color: white;
+}
+
+p{
+	background-color: #FF0055;
+	border-radius: 5px;
+}
